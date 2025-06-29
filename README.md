@@ -28,7 +28,7 @@ Hello, my name is MinhQuan. I'm the founder of DanChoiMC and a junior developer 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🪴DanChoiMC Server
-<img src="https://i.ibb.co/7xwxKc5h/image.png" width="740" height="460" alt="Alt">
+<img src="https://i.ibb.co/7xwxKc5h/image.png" width="80%" height="auto" alt="Alt">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
