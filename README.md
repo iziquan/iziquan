@@ -12,9 +12,10 @@ Hello, my name is MinhQuan. I'm the founder of DanChoiMC and a junior developer 
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iziquan&theme=radical&hide_border=false&include_all_commits=false&count_private=false" style="height: 175px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iziquan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 175px;">
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iziquan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" style="height:175px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iziquan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="height:175px;"/>
+</p>
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
