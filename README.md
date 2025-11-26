@@ -17,6 +17,11 @@ Hello, my name is MinhQuan. I'm the founder of <a href="https://danchoimc.vercel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iziquan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="height: 175px;">
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=iziquan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iziquan&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iziquan&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 Languages and Tools
