@@ -1,6 +1,6 @@
 <div align="center">
   
-![Hello](https://camo.githubusercontent.com/072fe7bbf97ccc32fc55f547faaac4aa35e00151213b0f7981bfc7de3111e72e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3238302673656374696f6e3d68656164657226746578743d48656c6c6f253230746865726525323025463025394625393125384226666f6e7453697a653d3930)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
 
 ### `$ Iziminhquan`
 
@@ -41,6 +41,5 @@ Hello, my name is MinhQuan. I'm the founder of <a href="https://danchoimc.vercel
 
 ## And thank you for viewing my profile 🥰
 
-
-![Alt](https://camo.githubusercontent.com/3ef3a124e1367970d4889a8b14cbb1e95dd51a75da2688a6f9de39af0b098c80/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d666f6f746572)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 </div>
