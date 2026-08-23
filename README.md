@@ -10,7 +10,6 @@ Hello, my name is MinhQuan. I'm a 🐣 developer with a strong curiosity for exp
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> - Stats
 
 <img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=iziquan&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
 
