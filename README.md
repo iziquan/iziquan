@@ -5,7 +5,7 @@
 ### `$ Iziminhquan`
 
 # 💫 - About Me :
-Hello, my name is MinhQuan. I'm the founder of <a href="https://danchoimc.vercel.app" target="_blank">DANCHOIMC</a> and a 🐣 developer with a strong curiosity for exploring technology. My passion for programming began as a simple hobby, but quickly grew into a deeper interest and personal pursuit.
+Hello, my name is MinhQuan. I'm a 🐣 developer with a strong curiosity for exploring technology. My passion for programming began as a simple hobby, but quickly grew into a deeper interest and personal pursuit.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
